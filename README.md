@@ -4,6 +4,11 @@ I am __Nitin__, a Computer Science student at the University of Hyderabad doing 
 
 ---
 
+😄 Pronouns: ...
+- He / Him
+
+---
+
 📕 I'm currently learning ... 
 - Machine Learning
 - Neural Networks and Deep Learning
@@ -41,21 +46,7 @@ I am __Nitin__, a Computer Science student at the University of Hyderabad doing 
 - [Coronavirus in India](https://www.linkedin.com/pulse/coronavirus-india-nitin-sai/)
 - [The Genius Who Took Apple To The Next Level](https://www.linkedin.com/pulse/genius-who-took-apple-next-level-nitin-sai/)
 
-You can find more articles in my LinkedIn profile.
+You can find more articles in my [LinkedIn](https://www.linkedin.com/in/nitin-sai-035045121/) profile.
 
 ---
 
-<!--
-**Nitin1901/Nitin1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
