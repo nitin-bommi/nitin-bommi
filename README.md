@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://sourcerer.io/nitin1901"><img src="https://avatars1.githubusercontent.com/u/43436336?v=4" height="50px" width="50px" alt=""/></a>
+
+<a href="https://sourcerer.io/nitin1901"><img src="https://img.shields.io/badge/Python-134%20commits-orange.svg" alt=""></a>
+
 I am __Nitin__, a Computer Science student at the University of Hyderabad doing my Integrated Masters of Technology program. I am an inquisitive learner and try to solve real-world problems. 
 
 ---
