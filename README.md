@@ -21,16 +21,14 @@ I am eager to apply my knowledge and experience to create a meaningful impact in
 - Large Language Models
 - Advanced Topics in Machine Learning
 - Reinforcement Learning
-- Meta Learning
+- Meta-Learning
 
 ---
 
 💻 I’m currently working on ...
-- Developing ML algorithms from scratch using a Neural Network mindset
-- Using interactive libraries to build Machine Learning interface
-- Increasing the performance of a sentiment analysis model using subword tokenizer
-- Generating images using Neural Style Transfer
-- Improving the performance of Face Mask detection system 
+- Developing feasible Software Defect Prediction models
+- Improving Brain Tumor classification
+- Using data-centric approach to improve Computer Vision tasks
 
 ---
 
