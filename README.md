@@ -36,15 +36,3 @@ I am eager to apply my knowledge and experience to create a meaningful impact in
 - Any of the topics I am working on
 
 ---
-
-📰 My articles ...
-- [Getting Started with TensorFlow](https://medium.com/@musicssns/getting-started-with-tensorflow-48072cf490ae?source=your_stories_page---------------------------)
-- [Measuring the performance of a Classification problem](https://becominghuman.ai/measuring-the-performance-of-a-classification-problem-104ee4319011?source=your_stories_page---------------------------)
-- [Dropout in Neural Networks](https://www.geeksforgeeks.org/dropout-in-neural-networks/)
-- [Coronavirus in India](https://www.linkedin.com/pulse/coronavirus-india-nitin-sai/)
-- [The Genius Who Took Apple To The Next Level](https://www.linkedin.com/pulse/genius-who-took-apple-next-level-nitin-sai/)
-
-You can find more articles in my [LinkedIn](https://www.linkedin.com/in/nitin-sai-035045121/) profile.
-
----
-
